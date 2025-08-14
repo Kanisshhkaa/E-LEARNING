@@ -1,0 +1,30 @@
+.nav-link:hover{
+    color:#006400
+}
+
+.breadcrumb a{
+    text-decoration: none;
+}
+
+.subscribe{
+    background-image: url("https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/Hc_TvUoHMjcyusz29/videoblocks-female-hands-typing-on-a-keyboard-of-laptop_szmm0krdm_thumbnail-1080_01.png");
+    background-size: cover;
+    background-position: center;
+}
+.blur-filter{
+    background-color: rgba(34, 13, 13, 0.453);
+}
+.course-data span {
+    padding-left: 10px;
+}
+.card-body ul li a{
+    text-decoration: none;
+}
+.button-group {
+    display: flex;
+    gap: 10px; /* Adjust the space between the buttons if needed */
+}
+.premium-course img{
+    height: 10rem;
+    width: auto;
+}

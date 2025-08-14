@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 2px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.navbar-collapse > ul > .admin_li >a:hover{
+    color: orange;
+}
+#profileDropdown::after{
+    display: none;
+}
+
+.analysis{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.admin-img{
+    display: flex;
+    justify-content: center;
+}
+.sales-analysis{
+    text-align: center;
+    padding: 4px 4px;
+    border-radius: 10%;
+}
+

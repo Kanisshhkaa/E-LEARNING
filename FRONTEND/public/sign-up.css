@@ -1,0 +1,22 @@
+
+.login_container {
+    background-color: #fff; 
+    padding: 5px 28px;
+    width: 440px;
+    border-radius: 10px; 
+}
+.login_container h2 {
+    text-align: center;
+    color: #333;
+}
+.form-label {
+    color: #333; 
+}
+.btn-success {
+    background-color: #28a745; 
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #218838; 
+  }
